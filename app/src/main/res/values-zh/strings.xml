@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">酷你妈天气</string>
+    <string name="air_quality">空气质量</string>
+    <string name="aqi">空气质量指数</string>
+    <string name="china">中华人民共和国</string>
+    <string name="forecast">未来天气</string>
+    <string name="nullText">空</string>
+    <string name="pm2_5">PM2.5</string>
+    <string name="suggestion">建议</string>
+</resources>
