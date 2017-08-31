@@ -6,4 +6,5 @@
     <string name="air_quality">Air Quality</string>
     <string name="pm2_5">PM2.5</string>
     <string name="suggestion">Suggestion</string>
+    <string name="nullText">null</string>
 </resources>
